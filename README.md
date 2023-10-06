@@ -9,8 +9,16 @@ TAKE RESPONSIBITITY FOR YOUR ACTION! THE VIOLATION OF LAWS CAN CAUSE SERIOUS CON
 THE DEVELOPER ASSUMES NO LIABILITY AND IS NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE 
 CAUSED BY THIS PROGRAM.
 
-## Requirements
-+ socket
+## Commands
++ Current Directory - pwd
++ Change Directory - cd
++ List Directory - ls
++ View File - cat
++ Download File - get
++ Send File - put
++ Delete File - del
++ Start File - run
++ Close Session - exit
 
 ## Setup
 ```
